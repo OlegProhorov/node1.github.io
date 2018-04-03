@@ -1,0 +1,162 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1522702141280">
+  <folder name="css">
+    <file name="site_global.css" crc="205954113"/>
+    <file name="master_______-a.css" crc="177400001" ref="index"/>
+    <file name="index.css" crc="4142862108" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="ralewaybold.woff" crc="4139162296"/>
+    <file name="ralewaybold.eot" crc="4156982883"/>
+    <file name="ralewaybold.svg" crc="3952909459"/>
+    <file name="ralewayregular.woff" crc="171178395"/>
+    <file name="ralewayregular.eot" crc="3814074761"/>
+    <file name="ralewayregular.svg" crc="219186424"/>
+    <file name="pt_sanswebbold.woff" crc="3829138239"/>
+    <file name="pt_sanswebbold.eot" crc="4135299753"/>
+    <file name="pt_sanswebbold.svg" crc="12175570"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="4148063285" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="172512987" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="3986320349" ref="phone>index:tablet>index:index"/>
+    <file name="form_check.php" crc="303648844" ref="phone>index"/>
+    <file name="form_throttle.php" crc="236764551" ref="phone>index"/>
+    <file name="form_process.php" crc="4272079531" ref="phone>index"/>
+    <file name="form-u11224.php" crc="344736469" ref="phone>index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="221459597" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="phone>index:tablet>index:index"/>
+    <file name="form-u11704.php" crc="3917639213" ref="phone>index"/>
+    <file name="require.js" crc="4159430777" ref="phone>index:tablet>index:index"/>
+    <file name="form-u9497.php" crc="310275397" ref="tablet>index"/>
+    <file name="form-u10529.php" crc="4169712322" ref="tablet>index"/>
+    <file name="form-u7212.php" crc="211972517" ref="index"/>
+    <file name="form-u7026.php" crc="397774621" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="naveka_logo.png" crc="197096713" ref="phone>index:tablet>index:index"/>
+    <file name="установка3.png" crc="4247185349" ref="phone>index:tablet>index:index"/>
+    <file name="безымянный11-u11243-fr.jpg" crc="3810631234" ref="phone>index"/>
+    <file name="check-mark.png" crc="202811586" ref="phone>index:tablet>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="icon-u11221-fr.png" crc="252166750" ref="phone>index:tablet>index"/>
+    <file name="img_7467.jpg" crc="4099213934" ref="phone>index"/>
+    <file name="icon3-u11357-fr.png" crc="4048090288" ref="phone>index:tablet>index"/>
+    <file name="icon2-u11365-fr.png" crc="518650874" ref="phone>index:tablet>index"/>
+    <file name="icon4-u11370-fr.png" crc="3932055127" ref="phone>index:tablet>index"/>
+    <file name="icon-u11376-fr.png" crc="46717704" ref="phone>index:tablet>index"/>
+    <file name="безимянный6-u11478-fr.jpg" crc="4152614575" ref="phone>index"/>
+    <file name="безымянный1-u11477-fr.jpg" crc="507936000" ref="phone>index"/>
+    <file name="безымянный5-u11479-fr.jpg" crc="299118635" ref="phone>index"/>
+    <file name="безымянный-u11472-fr.jpg" crc="383696738" ref="phone>index"/>
+    <file name="установка-u11461-fr.png" crc="3860652566" ref="phone>index"/>
+    <file name="ebm-u11489-fr.jpg" crc="4019486430" ref="phone>index"/>
+    <file name="безымянный11-u11550-fr.jpg" crc="3819487659" ref="phone>index"/>
+    <file name="безымянный8-u11473-fr.jpg" crc="506963826" ref="phone>index"/>
+    <file name="безымянный9-u11475-fr.jpg" crc="3959138800" ref="phone>index"/>
+    <file name="безимянный7-u11476-fr.jpg" crc="342371914" ref="phone>index"/>
+    <file name="img_7505.jpg" crc="4116407370" ref="phone>index:tablet>index:index"/>
+    <file name="truck-u11570-fr.png" crc="4134118161" ref="phone>index:tablet>index"/>
+    <file name="guarantee-certificate-u11575-fr.png" crc="87959682" ref="phone>index:tablet>index"/>
+    <file name="settings (1)-u11583-fr.png" crc="242394338" ref="phone>index:tablet>index"/>
+    <file name="settings-u11591-fr.png" crc="3992132209" ref="phone>index:tablet>index"/>
+    <file name="67521big-u11669-fr.jpg" crc="511581505" ref="phone>index"/>
+    <file name="без-имени-2-u11669-r-fr.jpg" crc="4177084613" ref="phone>index"/>
+    <file name="1466_cover-u11667-fr.jpg" crc="3926539622" ref="phone>index"/>
+    <file name="guarantee-certificate-u11667-r-fr.jpg" crc="169773774" ref="phone>index"/>
+    <file name="img-20170929131710-327-u11668-fr.jpg" crc="3871997059" ref="phone>index"/>
+    <file name="трц-радуга-парк-г-екатеринбург-u11668-r-fr.jpg" crc="3955712752" ref="phone>index"/>
+    <file name="2071_detail_page-u11671-fr.jpg" crc="3833505837" ref="phone>index"/>
+    <file name="без-имени-1-u11671-r-fr.jpg" crc="152694911" ref="phone>index"/>
+    <file name="f2229fb116ff9da6df30418eabf76e19-u11675-fr.jpg" crc="221549446" ref="phone>index"/>
+    <file name="без-имени-4.jpg" crc="4251955010" ref="phone>index:index"/>
+    <file name="object5-u11672-fr.jpg" crc="4161875069" ref="phone>index"/>
+    <file name="дворец-бракосочетания-гтюмень-u11672-r-fr.jpg" crc="409343996" ref="phone>index"/>
+    <file name="object4-u11676-fr.jpg" crc="136893828" ref="phone>index"/>
+    <file name="молодежный-центр-планета-квн-гмосква-u11676-r-fr.jpg" crc="448796611" ref="phone>index"/>
+    <file name="object6-u11674-fr.jpg" crc="55649409" ref="phone>index"/>
+    <file name="завод-бервел-рязанская-область-u11674-r-fr.jpg" crc="4007396617" ref="phone>index"/>
+    <file name="object1-u11670-fr.jpg" crc="3875376774" ref="phone>index"/>
+    <file name="трк-глобус,-гтверь-u11670-r-fr.jpg" crc="42230344" ref="phone>index"/>
+    <file name="photo_154-158641-u11673-fr.jpg" crc="51685168" ref="phone>index"/>
+    <file name="без-имени-3-u11673-r-fr.jpg" crc="22839421" ref="phone>index"/>
+    <file name="безымянный (2)-u11723-fr.jpg" crc="132762291" ref="phone>index:tablet>index"/>
+    <file name="безымянный11-u9522-fr.jpg" crc="3856173324" ref="tablet>index"/>
+    <file name="img_7440crop.jpg" crc="498458862" ref="tablet>index:index"/>
+    <file name="безымянный5-u9978-fr.jpg" crc="123048129" ref="tablet>index"/>
+    <file name="безымянный1-u9976-fr.jpg" crc="3907309470" ref="tablet>index"/>
+    <file name="безимянный6-u9977-fr.jpg" crc="458005971" ref="tablet>index"/>
+    <file name="безымянный-u9971-fr.jpg" crc="49003472" ref="tablet>index"/>
+    <file name="установка-u9960-fr.png" crc="4098811609" ref="tablet>index"/>
+    <file name="ebm-u9988-fr.jpg" crc="4871013" ref="tablet>index"/>
+    <file name="безымянный11-u9973-fr.jpg" crc="63120980" ref="tablet>index"/>
+    <file name="безымянный9-u9974-fr.jpg" crc="163668250" ref="tablet>index"/>
+    <file name="безимянный7-u9975-fr.jpg" crc="26256463" ref="tablet>index"/>
+    <file name="безымянный8-u9972-fr.jpg" crc="435169987" ref="tablet>index"/>
+    <file name="67521big.jpg" crc="4163973574" ref="tablet>index:index"/>
+    <file name="без-имени-2.jpg" crc="4181472874" ref="tablet>index:index"/>
+    <file name="1466_cover-u10480-fr.jpg" crc="298917093" ref="tablet>index"/>
+    <file name="guarantee-certificate.jpg" crc="136110476" ref="tablet>index:index"/>
+    <file name="f2229fb116ff9da6df30418eabf76e19-u10488-fr.jpg" crc="454323319" ref="tablet>index"/>
+    <file name="без-имени-4-u10488-r-fr.jpg" crc="186150717" ref="tablet>index"/>
+    <file name="2071_detail_page.jpg" crc="4247650529" ref="tablet>index:index"/>
+    <file name="без-имени-1.jpg" crc="160784133" ref="tablet>index:index"/>
+    <file name="photo_154-158641-u10486-fr.jpg" crc="3939880396" ref="tablet>index"/>
+    <file name="без-имени-3.jpg" crc="100036447" ref="tablet>index:index"/>
+    <file name="object4-u10489-fr.jpg" crc="155704596" ref="tablet>index"/>
+    <file name="молодежный-центр-планета-квн-гмосква-u10489-r-fr.jpg" crc="4006443354" ref="tablet>index"/>
+    <file name="object5.jpg" crc="140615146" ref="tablet>index:index"/>
+    <file name="дворец-бракосочетания-гтюмень.jpg" crc="4279062240" ref="tablet>index:index"/>
+    <file name="img-20170929131710-327.jpg" crc="359066813" ref="tablet>index:index"/>
+    <file name="трц-радуга-парк-г-екатеринбург.jpg" crc="3877174100" ref="tablet>index:index"/>
+    <file name="object6.jpg" crc="255291470" ref="tablet>index:index"/>
+    <file name="завод-бервел-рязанская-область.jpg" crc="246561169" ref="tablet>index:index"/>
+    <file name="object1.jpg" crc="4194338001" ref="tablet>index:index"/>
+    <file name="трк-глобус,-гтверь.jpg" crc="36432030" ref="tablet>index:index"/>
+    <file name="безымянный11-u8657-fr.jpg" crc="195053697" ref="index"/>
+    <file name="icon-u7123-fr.png" crc="3785371007" ref="index"/>
+    <file name="icon2.png" crc="167117228" ref="index"/>
+    <file name="icon3-u5612-fr.png" crc="510775358" ref="index"/>
+    <file name="icon.png" crc="246146796" ref="index"/>
+    <file name="icon4.png" crc="165417967" ref="index"/>
+    <file name="безымянный5.jpg" crc="3875553997" ref="index"/>
+    <file name="безымянный1.jpg" crc="518401630" ref="index"/>
+    <file name="безимянный6.jpg" crc="372974190" ref="index"/>
+    <file name="безымянный.jpg" crc="3891043007" ref="index"/>
+    <file name="установка.png" crc="3782033728" ref="index"/>
+    <file name="ebm.jpg" crc="4117365846" ref="index"/>
+    <file name="безымянный11.jpg" crc="299551877" ref="index"/>
+    <file name="безымянный9.jpg" crc="138434735" ref="index"/>
+    <file name="безимянный7.jpg" crc="3872014111" ref="index"/>
+    <file name="безымянный8.jpg" crc="297888992" ref="index"/>
+    <file name="truck-u8517-fr.png" crc="245316354" ref="index"/>
+    <file name="settings-u8535-fr.png" crc="273293167" ref="index"/>
+    <file name="guarantee-certificate-u8555-fr.png" crc="4099663473" ref="index"/>
+    <file name="settings (1)-u8571-fr.png" crc="4220485254" ref="index"/>
+    <file name="1466_cover.jpg" crc="83101" ref="index"/>
+    <file name="f2229fb116ff9da6df30418eabf76e19.jpg" crc="390733944" ref="index"/>
+    <file name="photo_154-158641.jpg" crc="3964901499" ref="index"/>
+    <file name="object4.jpg" crc="135149214" ref="index"/>
+    <file name="молодежный-центр-планета-квн-гмосква.jpg" crc="4143098875" ref="index"/>
+    <file name="безымянный (2).jpg" crc="526993216" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_______-a.css" crc="3921481936" ref="tablet>index"/>
+      <file name="index.css" crc="4174004870" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3791661994" mt="1522701553824" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_______-a.css" crc="309970941" ref="phone>index"/>
+      <file name="index.css" crc="315651117" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3788722191" mt="1522701736323" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3891964948" mt="1522701923268" redirect="true"/>
+</manifest>
